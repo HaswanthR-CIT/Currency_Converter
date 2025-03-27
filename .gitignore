@@ -1,0 +1,28 @@
+# Virtual environment
+venv/
+
+# Python bytecode and cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment files
+.env
+*.env
+
+# IDE-specific files (VS Code)
+.vscode/
+
+# OS-specific files
+.DS_Store  # macOS
+Thumbs.db  # Windows
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Dependency directories (if you add more later)
+dist/
+build/
+*.egg-info/
